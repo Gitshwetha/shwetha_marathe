@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Finleap Application Test Automation Test Suite]">
+  <test name="Finleap Web Test Cases(failed)">
+    <classes>
+      <class name="com.fin.qa.testcases.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginPageTitleTest"/>
+        </methods>
+      </class> <!-- com.fin.qa.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Finleap Web Test Cases(failed) -->
+</suite> <!-- Failed suite [Finleap Application Test Automation Test Suite] -->
